@@ -32,15 +32,4 @@ O projeto simula um site de e-commerce voltado para produtos gamers, com funcion
 - **Login funcional** (validação simples)  
 - Layout totalmente responsivo para dispositivos móveis  
 
----
 
-## Estrutura do Projeto
-
-```text
-gamerstore-senai/
-│
-├── index.html           # Página principal
-├── style.css            # Arquivo de estilos (caso separe do inline)
-├── script.js            # Lógica de interação e validações
-├── assets/              # Imagens e recursos estáticos
-└── README.md            # Documentação do projeto
